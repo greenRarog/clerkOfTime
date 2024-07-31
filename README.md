@@ -29,3 +29,4 @@ php8.3
 laravel-11
 MySQL-8.0
 работаю из-под докера
+xDebug
